@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T22:26:40.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="S9B-eUEJDVI9VL2pgyZj" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T22:48:48.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="2agTHjV0DyV7Co9Ejtk-" version="16.2.7" type="github">
   <diagram id="cN3cUMKL5FsC3ke-VXBd" name="Page-1">
     <mxGraphModel dx="1192" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,20 +7,26 @@
         <mxCell id="zCqsCdh1tPIyBY0-FaKw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="200" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="zCqsCdh1tPIyBY0-FaKw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zCqsCdh1tPIyBY0-FaKw-3" target="zCqsCdh1tPIyBY0-FaKw-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zCqsCdh1tPIyBY0-FaKw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zCqsCdh1tPIyBY0-FaKw-3" target="zCqsCdh1tPIyBY0-FaKw-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zCqsCdh1tPIyBY0-FaKw-3" value="Suscripción Azure" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_subscription;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="510" y="10" width="50" height="40" as="geometry" />
+          <mxGeometry x="240" y="25" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zCqsCdh1tPIyBY0-FaKw-6" value="Grupo de recursos" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="42.5" height="40" as="geometry" />
+          <mxGeometry x="715" y="115" width="42.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zCqsCdh1tPIyBY0-FaKw-7" value="Usuarios&amp;nbsp; y roles&lt;br&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="516.5" y="100" width="37" height="30" as="geometry" />
+        <mxCell id="zCqsCdh1tPIyBY0-FaKw-12" value="Suscripciones" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="20" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zCqsCdh1tPIyBY0-FaKw-17" value="Active Directory Users and Roles" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="25" width="43.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zCqsCdh1tPIyBY0-FaKw-18" value="Sucursal San Jose" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.building;" vertex="1" parent="1">
+          <mxGeometry x="58.4" y="210" width="63.2" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="zCqsCdh1tPIyBY0-FaKw-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zCqsCdh1tPIyBY0-FaKw-20" value="Sucursal Liberia" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.building;" vertex="1" parent="1">
+          <mxGeometry x="58.400000000000006" y="400" width="63.2" height="55.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
