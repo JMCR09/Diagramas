@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T02:13:00.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="4tcGsDxlto6kY0a04yiB" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T02:14:07.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="E-dp5LPCBba86deCkWnc" version="16.2.7" type="github">
   <diagram id="cN3cUMKL5FsC3ke-VXBd" name="Page-1">
     <mxGraphModel dx="1192" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,9 +122,6 @@
         <mxCell id="zCqsCdh1tPIyBY0-FaKw-97" value="App Services" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;sketch=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="280" width="54" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="zCqsCdh1tPIyBY0-FaKw-111" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zCqsCdh1tPIyBY0-FaKw-99" target="zCqsCdh1tPIyBY0-FaKw-110">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zCqsCdh1tPIyBY0-FaKw-99" value="Windows Virutal Desktop" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/other/Windows_Virtual_Desktop.svg;sketch=0;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="560" y="275.84" width="59" height="59" as="geometry" />
         </mxCell>
@@ -140,8 +137,11 @@
         <mxCell id="zCqsCdh1tPIyBY0-FaKw-107" value="Azure BackUps" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.scheduled_backups;" vertex="1" parent="1">
           <mxGeometry x="693.0699999999999" y="416" width="46.93" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="zCqsCdh1tPIyBY0-FaKw-110" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;" vertex="1" parent="1">
-          <mxGeometry x="536" y="410" width="83" height="50" as="geometry" />
+        <mxCell id="zCqsCdh1tPIyBY0-FaKw-112" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zCqsCdh1tPIyBY0-FaKw-110" target="zCqsCdh1tPIyBY0-FaKw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCqsCdh1tPIyBY0-FaKw-110" value="Office365" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;" vertex="1" parent="1">
+          <mxGeometry x="200" y="25" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
