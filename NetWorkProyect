@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T00:53:33.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="j3OkhTdYTVRzPu290ohp" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T01:40:52.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kfP8ZL31aT_fEWjE9N7I" version="16.2.7" type="github">
   <diagram id="cN3cUMKL5FsC3ke-VXBd" name="Page-1">
     <mxGraphModel dx="1192" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,6 +121,12 @@
         </mxCell>
         <mxCell id="zCqsCdh1tPIyBY0-FaKw-103" value="Reportes" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Graph-Magnifier-128.png;sketch=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="280.68" width="64.16" height="64.16" as="geometry" />
+        </mxCell>
+        <mxCell id="zCqsCdh1tPIyBY0-FaKw-105" value="DevOps" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="49.9" y="142.9" width="40.1" height="40.1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCqsCdh1tPIyBY0-FaKw-106" value="DevOps" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="52.6" y="475.04999999999995" width="40.1" height="40.1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
