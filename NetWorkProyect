@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T00:51:59.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-fGNc41-EqH8BeDAdRZ5" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T00:53:33.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="j3OkhTdYTVRzPu290ohp" version="16.2.7" type="github">
   <diagram id="cN3cUMKL5FsC3ke-VXBd" name="Page-1">
     <mxGraphModel dx="1192" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         <mxCell id="zCqsCdh1tPIyBY0-FaKw-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zCqsCdh1tPIyBY0-FaKw-51" target="zCqsCdh1tPIyBY0-FaKw-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zCqsCdh1tPIyBY0-FaKw-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zCqsCdh1tPIyBY0-FaKw-51" target="zCqsCdh1tPIyBY0-FaKw-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zCqsCdh1tPIyBY0-FaKw-51" value="VNET&lt;br&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="658.86" y="183" width="48.21" height="27" as="geometry" />
         </mxCell>
@@ -115,6 +118,9 @@
         </mxCell>
         <mxCell id="zCqsCdh1tPIyBY0-FaKw-99" value="Windows Virutal Desktop" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/other/Windows_Virtual_Desktop.svg;sketch=0;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="560" y="275.84" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="zCqsCdh1tPIyBY0-FaKw-103" value="Reportes" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Graph-Magnifier-128.png;sketch=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280.68" width="64.16" height="64.16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
