@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T02:16:06.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="qpEecy21HhE6i_yq0Ssy" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T02:16:11.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="goknz71ucc4ot0hhGUzb" version="16.2.7" type="github">
   <diagram id="cN3cUMKL5FsC3ke-VXBd" name="Page-1">
     <mxGraphModel dx="1192" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,11 +136,6 @@
         </mxCell>
         <mxCell id="zCqsCdh1tPIyBY0-FaKw-107" value="Azure BackUps" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.scheduled_backups;" vertex="1" parent="1">
           <mxGeometry x="693.0699999999999" y="416" width="46.93" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="zCqsCdh1tPIyBY0-FaKw-112" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="zCqsCdh1tPIyBY0-FaKw-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="43.28947368421052" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
